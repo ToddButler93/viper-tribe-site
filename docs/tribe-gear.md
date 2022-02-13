@@ -1,9 +1,9 @@
 
 | Player | Mouse | DPI | Sens | FOV | Tribes.ini | Keyboard | Headphones | Mousepad | Monitor HZ | Role |
-| -----------               | :-----------:             | :-----------:         | :-----------:             | :-----------:             | :-----------:             | :-----------:             | :-----------:             | :-----------:             | :-----------:             | :-----------:             |
+| ----------- | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | Dodge | Pwnage Ultra Custom | 400 | 9 | 120 | [Tribes.ini](/ini/dodge/tribes.ini) | Royal Kludge RK84 | Fostex t60rp | Endgame Gear MPC890 | 240hz | LD, MD, O, HOF, Flex, Snipe |
-| Dust | Logiteck G Pro Superlight | 400 | 8 | 120 | [Tribes.ini](/ini/dust/tribes.ini) | Logitech G Pro Keyboard | Mackie MP-220 | Steelseries Qck Heavy | 144 | HoF, LD |
-| Wrightrj | Logitech g703 | 400 | 8.238 | 105 | [Tribes.ini](/ini/wrightrj/tribes.ini) | Logitech G Pro keyboard | G633 headphones | Qck Heavy mousepad| 144hz | LD |
+| Dust | Logitech G Pro Superlight | 400 | 8 | 120 | [Tribes.ini](/ini/dust/tribes.ini) | Logitech G Pro Keyboard | Mackie MP-220 | Steelseries Qck Heavy | 144hz | HoF, LD |
+| Wrightrj | Logitech g703 | 400 | 8.238 | 105 | [Tribes.ini](/ini/wrightrj/tribes.ini) | Logitech G Pro keyboard | G633 headphones | Steelseries Qck Heavy| 144hz | LD |
 | Brian89 | Logitech g700 | NA | NA | NA | NA | NA | NA | NA | NA | NA |
 | Giga | Dell KM7321W | NA | NA | NA | NA | NA | NA | NA | NA | NA |
 | Gredwa | Kogan GMX RGB | NA | NA | NA | NA | NA | NA | NA | NA | NA |
