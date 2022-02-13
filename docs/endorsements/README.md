@@ -5,13 +5,6 @@ description: List of happy customers
 ---
 # Endorsements
 
-<QuoteCard :content="{
-    quote: 'i think i could handle a bit smaller viper',
-    image: '',
-    name: 'Solly',
-    location: 'Si'
-}" />
-
 ## Solly
 #### Quotes
 > i think i could handle a bit smaller viper

@@ -6,17 +6,6 @@ module.exports = {
     lang: 'en-US',
     title: 'Viper Tribe',
     description: description,
-  
-    plugins: [
-      [
-        '@vuepress/register-components',
-        {
-          components: {
-            QuoteCard: path.resolve(__dirname, './components/QuoteCard.vue'),
-          },
-        },
-      ],
-    ],
     // theme and its config
     extends: '@vuepress/theme-default',
     themeConfig: {
