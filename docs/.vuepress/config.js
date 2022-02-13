@@ -17,6 +17,10 @@ module.exports = {
           link: '/',
         },
         {
+          text: 'Tribe Gear',
+          link: '/tribe-gear/',
+        },
+        {
           text: 'Endorsements',
           link: '/endorsements/',
         },
