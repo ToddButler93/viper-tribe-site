@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://assets2.razerzone.com/images/pnx.assets/825a6658680463847fe438ea83ae76cd/razer-viper-ultimate-hero-desktop.jpg
-tagline: The alpha giga-chad holders of the sharpest of Razer™ weaponry.
+tagline: The alpha number Juan holders of the sharpest of Razer™ weaponry.
 actionText: Get Informed →
 actionLink: /knowledge/
 features:
