@@ -7,10 +7,10 @@ module.exports = {
     title: 'Viper Tribe',
     description: description,
     // theme and its config
-    contributors: false,
     extends: '@vuepress/theme-default',
     themeConfig: {
       logo: 'https://hybrismedianonprods1.blob.core.windows.net/sys-master-phoenix-images-container/h6c/h6b/9559620911134/razer-ths-logo.svg',
+      contributors: false,
       navbar: [
         // NavbarItem
         {
