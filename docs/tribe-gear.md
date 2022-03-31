@@ -8,7 +8,7 @@
 | Solly | Razer Viper Mini | 1600 | 2.26 | 120 | NA | Tomoko MMC023 | Sennheiser HD 200 Pro | Razer Goliathus Speed | 144Hz | Offense |
 | Wrightrj | Logitech g703 | 400 | 8.238 | 105 | [Tribes.ini](/ini/wrightrj/tribes.ini) | Logitech G Pro keyboard | G633 headphones | Steelseries Qck Heavy| 144hz | LD |
 | Brian89 | Logitech g700 | NA | NA | NA | NA | NA | NA | NA | NA | NA |
-| Giga | Dell KM7321W | NA | NA | NA | NA | NA | NA | NA | NA | NA |
+| Giga | Dell MS5320W | 1000 | 15 | 120 | NA | Dell KB7120W | Logitech G Pro X Wireless | SteelSeries QcK Edge | 120hz | LD, MD, O |
 | Gredwa | Kogan GMX RGB | NA | NA | NA | NA | NA | NA | NA | NA | NA |
 | Legend | Genius DX-110 Mouse | NA | NA | NA | NA | NA | NA | NA | NA | NA |
 | n8 | DM1FPS | NA | NA | NA | NA | NA | NA | NA | NA | NA |
