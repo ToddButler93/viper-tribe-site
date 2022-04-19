@@ -13,4 +13,5 @@
 | Legend      | Genius DX-110 Mouse       | NA        | NA         | NA        | NA                                     | NA                      | NA                        | NA                    | NA           | NA                          |
 | n8          | DM1FPS                    | NA        | NA         | NA        | NA                                     | NA                      | NA                        | NA                    | NA           | NA                          |
 | Narcles     | Razer Basalisk V2         | NA        | NA         | NA        | NA                                     | NA                      | NA                        | NA                    | NA           | NA                          |
-| Quench      | Razer Viper Ultimate      | NA        | NA         | NA        | NA                                     | NA                      | NA                        | NA                    | NA           | NA                          |
+| Quench | Razer Viper Ultimate | 800 | 8 | 120 | NA | Corsair K95 RGB Platinum XT | Hyperx Cloud Flight | G440 mousepad | 240hz | LD, MD, O, Flex, Snipe |
+| Jive | Glorious Model O (Wireless) | 650 | 5 | 120 | NA | Aurtec Starship Optical | Turtle Beach PX22 MLG | Corsair MM350 Extended XL | 60hz | HOF, O, LD, Snipe |
