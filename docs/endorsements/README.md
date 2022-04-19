@@ -39,3 +39,7 @@ description: List of happy customers
 ## Jive
 #### Quotes
 > Microcenter was sold out of the Viper
+
+## Baguette
+#### Quotes
+> I used to get farmed by Evil and Solly but ever since getting my Razer Viper Ultimate, I've been able to beat them both in a 1v1 duel easily.
