@@ -17,6 +17,7 @@ Black | Quartz | Mercury | Cyberpunk 2077
 - 20000 DPI
 - 650 IPS
 - 50G Max Acceleration
+- 99.6% Resolution Accuracy
 ### Razer™ Optical Mouse Switch
 
 ### Razer™ HyperSpeed Wireless
