@@ -34,6 +34,10 @@ module.exports = {
               link: '/family/compare',
             },
             {
+              text: 'V2 Pro',
+              link: '/family/v2pro',
+            },
+            {
               text: 'Ultimate',
               link: '/family/ultimate',
             },

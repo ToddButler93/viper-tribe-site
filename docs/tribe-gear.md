@@ -4,7 +4,7 @@
 | Baguette | Razer Viper Ultimate | 700 | 6 | 120 | [Tribes.ini](/ini/baguette/tribes.ini) | Keychron K4 | Steelseries Arctis 7 | Aritsan Zero Mousepad | 165Hz | Cap, O |
 | Brian89     | Logitech g700             | NA        | NA         | NA        | NA                                     | NA                      | NA                        | NA                    | NA           | NA                          |
 | Chicken     | Razer Viper Ultimate      | 800       | 3.7        | 120       | NA                                     | Cooler Master MK730     | Logitech G Pro X wireless | Steelseries Qck       | 165Hz        | Cap, MD, O, HOF             |
-| Dodge | Ninjutso Origin One X | 400 | 9 | 120 | [Tribes.ini](/ini/dodge/tribes.ini) | Royal Kludge RK84 | Fostex t60rp | Odin Gaming Infinity 2XL | 240hz | LD, MD, O, HOF, Flex |
+| Dodge | Ninjutso Origin One X | 400 | 9 | 120 | [Tribes.ini](/ini/dodge/tribes.ini) | Royal Kludge RK84 | Fostex t60rp | Odin Gaming Infinity 2XL | 240hz | LD, MD, O, HOF, Snipe, Flex |
 | Dust        | Logitech G Pro Superlight | 400       | 8          | 120       | [Tribes.ini](/ini/dust/tribes.ini)     | Logitech G Pro Keyboard | Mackie MP-220             | Steelseries Qck Heavy | 144hz        | HoF, LD                     |
 | Evil        | Glorious Model D          | 400       | 7.8        | 120       | [Tribes.ini](/ini/evil/tribes.ini)     | Corsair K70             | AKG K70                   | Artisan Hien Mousepad | 280Hz        | Sniper                      | 
 | Giga        | Dell MS5320W              | 1000      | 15         | 120       | NA                                     | Dell KB7120W            | Logitech G Pro X Wireless | SteelSeries QcK Edge  | 120hz        | LD, MD, O                   |
