@@ -1,17 +1,15 @@
-const { path } = require('@vuepress/utils')
+import { defineUserConfig } from 'vuepress'
+import { defaultTheme } from '@vuepress/theme-default'
 const { description } = require('../../package')
 
-module.exports = {
-    // site config
-    lang: 'en-US',
-    title: 'Viper Tribe',
-    description: description,
-    // theme and its config
-    extends: '@vuepress/theme-default',
-    themeConfig: {
-      logo: 'https://hybrismedianonprods1.blob.core.windows.net/sys-master-phoenix-images-container/h6c/h6b/9559620911134/razer-ths-logo.svg',
-      contributors: false,
-      navbar: [
+export default defineUserConfig({
+  lang: 'en-US',
+  title: 'Viper Tribe',
+  description: description,
+  theme: defaultTheme({
+    logo: 'https://assets2.razerzone.com/images/phoenix/razer-ths-logo.svg',
+    contributors: false,
+    navbar: [
         // NavbarItem
         {
           text: 'Home',
@@ -52,5 +50,5 @@ module.exports = {
         ],
         },
       ],
-    },
-  }
+  }),
+})
