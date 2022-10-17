@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "Razer Viper gaming mice wielders Tribes Ascend community.",
   "devDependencies": {
-    "@vuepress/plugin-register-components": "^2.0.0-beta.35",
-    "vuepress": "^2.0.0-beta.35"
+    "@vuepress/plugin-register-components": "^2.0.0-beta.51",
+    "vuepress": "^2.0.0-beta.51"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
