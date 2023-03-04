@@ -1,6 +1,7 @@
 # Viper Page
 
-URL https://viper-tribe.netlify.app/
+URL TBD  
+*Temporary deployment: https://viper-tribe.netlify.app/*
 
 Viper stuff.
 
