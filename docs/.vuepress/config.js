@@ -6,6 +6,10 @@ export default defineUserConfig({
   lang: 'en-US',
   title: 'Viper Tribe',
   description: description,
+  head: [
+    ['link', { rel: "shortcut icon", type: "image/svg", href: "https://assets2.razerzone.com/images/phoenix/razer-ths-logo.svg"}],
+    ['meta', { name: "theme-color", content: "#00FF00"}],
+  ],
   theme: defaultTheme({
     logo: 'https://assets2.razerzone.com/images/phoenix/razer-ths-logo.svg',
     contributors: false,
